@@ -1,3 +1,2 @@
-# Basic-Solidity-Conracts
-
-Basic solidity ERC20 and ERC721 contracts 
+ERC20 and ERC721 contracts
+Unit testing with truffle
